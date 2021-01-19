@@ -1,0 +1,1 @@
+module.exports.fun2 = () => console.log('fun 2 is running')

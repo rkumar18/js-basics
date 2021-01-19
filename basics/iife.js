@@ -1,0 +1,1 @@
+(fun1 = () => console.log('immidately function call after this line'))(); 
